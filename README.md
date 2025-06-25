@@ -4,3 +4,8 @@ Intro Cyber Security
 People
 Process
 Technology
+
+## CIA Triage
+1. Confidentiality
+2. Integretity
+3. Avaikability
