@@ -6,6 +6,7 @@ Process
 Technology
 
 ## CIA Triage
+### DAD Triage
 1. Confidentiality
-2. Integretity
-3. Avaikability
+2. Integrity
+3. Availability
